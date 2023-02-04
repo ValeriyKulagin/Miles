@@ -9,6 +9,6 @@ public class Main {
         } else {
             bonusMiles = 0;
         }
-        System.out.println(bonusMiles);
+        System.out.println("Количество бонусных миль = " + bonusMiles);
     }
 }
